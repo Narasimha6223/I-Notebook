@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(203, 201, 206);
+}
+
+i{
+    cursor: pointer;
+}
+
+.active-mine{
+    color: gray!important;
+    
+    /* background-color: #fff; */
+}
